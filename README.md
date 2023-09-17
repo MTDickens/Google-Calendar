@@ -1,4 +1,4 @@
-# 📅 Add Courses to Your Google Calendar
+# 📅 Add batches of tasks to Your Google Calendar
 
 ## 📝 Introduction
 
